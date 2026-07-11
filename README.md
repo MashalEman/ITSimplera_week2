@@ -28,6 +28,3 @@ Week2-IPAddressing-VLAN/
 - Difference between FLSM (equal subnets) and VLSM (sized-to-need subnets, less waste).
 - VLAN segmentation, access vs. trunk ports, and inter-VLAN routing via router sub-interfaces.
 - Verifying and troubleshooting VLAN/trunk configs with Cisco IOS commands.
-
-## Links
-- LinkedIn Post: [add your post link here]
